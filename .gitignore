@@ -3,3 +3,5 @@ yarn.lock
 build/
 test.jpeg
 *.tgz
+.terraform
+terraform.tfstate*

@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+fe7784944c952070eae260af6db9bc8bf63ed6e5 refs/tags/rendertron-middleware@0.1.3
+1b2052e210a73161243aa7ff74ed6076e3b0d066 refs/tags/rendertron-middleware@0.1.4
+f28b4610ea0b467b40d2f8e65ec696d92d3a68b5 refs/tags/rendertron-middleware@0.1.5
+4803766bae5728f74833b795de7b3e9708467a96 refs/tags/v1.1.0
+^3b76cd15a5670146b48e85716e0de5548cd73990
+f68124bbe94cd80510cc8d57941c6514f03dedbb refs/tags/v1.1.1
+^2d220d18f5df7c23e8fe591a6089319fcb4ab885
+37d28ee64db862b9f3ce9c58810743d3891d9af1 refs/tags/v2.0.0

@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 1ff181941b84c2a414c069127e5c3b35644039d0 Elliot Jordan <elliot.jordan@and.digital> 1583232789 +0000	clone: from https://github.com/GoogleChrome/rendertron.git
+1ff181941b84c2a414c069127e5c3b35644039d0 1be639a0f675e5477f55422ff13d1280a9cb20ed Elliot Jordan <elliot.jordan@and.digital> 1583862800 +0000	commit: terraform and docker changes
+1be639a0f675e5477f55422ff13d1280a9cb20ed 1d6395aa7a0894486295fd2267743af6ba8fc493 Elliot Jordan <elliot.jordan@and.digital> 1583863067 +0000	commit: updated gitignore
+1d6395aa7a0894486295fd2267743af6ba8fc493 dc77ae4bfc15e3ba818e799ea984f79b0f9f8e65 Elliot Jordan <elliot.jordan@and.digital> 1583863186 +0000	commit: gitignore
+dc77ae4bfc15e3ba818e799ea984f79b0f9f8e65 829602b0abc78cabc1280b5309792f820c3a051c Elliot Jordan <elliot.jordan@and.digital> 1583863247 +0000	commit: removed terraform/.terraform/plugins/darwin_amd64/
+829602b0abc78cabc1280b5309792f820c3a051c 588d5c14fd4ab092b4242d36a9675192576fd6c2 Elliot Jordan <elliot.jordan@and.digital> 1583863368 +0000	commit: trying to push lighter version
+588d5c14fd4ab092b4242d36a9675192576fd6c2 87721afe3e75a8e675515e50c58faa26c036b2bb Elliot Jordan <elliot.jordan@and.digital> 1583920858 +0000	commit: new
+87721afe3e75a8e675515e50c58faa26c036b2bb 588d5c14fd4ab092b4242d36a9675192576fd6c2 Elliot Jordan <elliot.jordan@and.digital> 1583921399 +0000	reset: moving to HEAD~1
+588d5c14fd4ab092b4242d36a9675192576fd6c2 829602b0abc78cabc1280b5309792f820c3a051c Elliot Jordan <elliot.jordan@and.digital> 1583921407 +0000	reset: moving to HEAD~1
+829602b0abc78cabc1280b5309792f820c3a051c dc77ae4bfc15e3ba818e799ea984f79b0f9f8e65 Elliot Jordan <elliot.jordan@and.digital> 1583921416 +0000	reset: moving to HEAD~1
+dc77ae4bfc15e3ba818e799ea984f79b0f9f8e65 1d6395aa7a0894486295fd2267743af6ba8fc493 Elliot Jordan <elliot.jordan@and.digital> 1583921421 +0000	reset: moving to HEAD~1
+1d6395aa7a0894486295fd2267743af6ba8fc493 1be639a0f675e5477f55422ff13d1280a9cb20ed Elliot Jordan <elliot.jordan@and.digital> 1583921432 +0000	reset: moving to HEAD~1
+1be639a0f675e5477f55422ff13d1280a9cb20ed 1ff181941b84c2a414c069127e5c3b35644039d0 Elliot Jordan <elliot.jordan@and.digital> 1583921441 +0000	reset: moving to HEAD~1
+1ff181941b84c2a414c069127e5c3b35644039d0 dc77ae4bfc15e3ba818e799ea984f79b0f9f8e65 Elliot Jordan <elliot.jordan@and.digital> 1583921926 +0000	reset: moving to dc77ae4
